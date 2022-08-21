@@ -25,7 +25,6 @@
         
 </pre>
 
-![https://github.com/kerenyit/kerenyit!](https://media.giphy.com/media/yE72eDy7lj3JS/giphy.gif)
 
 <!--
 **kerenyit/kerenyit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
